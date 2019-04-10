@@ -37,6 +37,6 @@ You'll start by implementing signup/login functionality that enables users to au
 
 The next part of the tutorial is about adding realtime functionality to your API using GraphQL subscriptions.
 
-Lastly, you'll allow the consumers of the API to constrain the list of items they retrieve from the API by adding filtering and pagination capabalities to it.
+Lastly, you'll allow the consumers of the API to constrain the list of items they retrieve from the API by adding filtering and pagination capabilities to it.
 
 Let's get started 🚀
